@@ -1,0 +1,79 @@
+body {
+    background-color: grey;
+    color: white;
+    width: 100%;
+}
+
+p,
+ul {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    letter-spacing: 2px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Contrail One', cursive;
+    color: #E8DF0F;
+    font-size: 5em;
+    margin-bottom: 0px;
+}
+
+.accroche {
+    text-align: center;
+    color: #E8DF0F;
+    font-size: 1.5em;
+    margin-top: 0px;
+    font-family: 'Contrail One', cursive;
+}
+
+.resume {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    color: #E8DF0F;
+    margin-left: 10px;
+}
+
+.description {
+    border: 1px solid #E8DF0F;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    color: #E8DF0F;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+/* Detail des différentes pages */
+
+img {
+    width: 60%;
+}
+
+.page1,
+.page2,
+.page3,
+.page4,
+.page5,
+.page6,
+.page7,
+.page8,
+.page9,
+.page10,
+.page11,
+.page12,
+.page13,
+.page14 {
+    text-align: center;
+}
